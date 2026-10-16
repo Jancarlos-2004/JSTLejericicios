@@ -1,0 +1,2 @@
+Coloca aqui tus imagenes (logo, icono jsp.png, imagenes de circulo.png, etc.)
+usadas en index.jsp y en los demas archivos .jsp del proyecto.

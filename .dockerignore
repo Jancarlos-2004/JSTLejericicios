@@ -1,0 +1,6 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+render.yaml
+base_de_datos_empleados.sql
